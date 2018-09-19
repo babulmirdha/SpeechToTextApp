@@ -1,4 +1,4 @@
-package com.example.bmdha.speechtotext;
+package com.example.bmdha.customspeechrecognizer;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

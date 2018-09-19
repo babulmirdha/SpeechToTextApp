@@ -1,4 +1,4 @@
-package com.example.bmdha.speechtotext;
+package com.example.bmdha.customspeechrecognizer;
 
 import org.junit.Test;
 
